@@ -69,8 +69,13 @@ us predict the patients who are diagnosed with heart diseases by cleaning the da
 
 
 6. References:
+
 a. https://www.mayoclinic.org/diseases-conditions/heart-disease/diagnosis-treatment/drc-20353124#:~:text=Besides%20blood%20tests%20and%20a,too%20fast%20or%20too%20slowly.
+
 b. https://archive.ics.uci.edu/ml/datasets/Heart+Disease
+
 c. https://www.kaggle.com/code/cdabakoglu/heart-disease-classifications-machine-learning
+
 d. https://scikit-learn.org/stable/
+
 e. https://www.jeremyjordan.me/hyperparameter-tuning/
